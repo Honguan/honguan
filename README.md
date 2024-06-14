@@ -35,30 +35,14 @@
 <br>
 <hr width="36%">
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-<br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Honguan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Honguan" />
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=Honguan&show_icons=true&theme=dark&locale=en" alt="Honguan" />
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Honguan&theme=dark" alt="Honguan" />
 </p>
@@ -77,7 +61,8 @@
 <p align="left">
   <a href="mailto:666ddxx@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="email" height="40" width="40" /></a>
-
+  
+<br>
   <a href="https://t.me/r_ghalibie" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Honguan" height="40" width="40" />
   </a> 
