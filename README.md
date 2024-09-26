@@ -63,12 +63,12 @@
   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="email" height="40" width="40" /></a>
   
 <br>
-  <a href="https://t.me/r_ghalibie" target="blank">
+  <a href="https://t.me/chendxpi" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Honguan" height="40" width="40" />
   </a> 
   
 </p>
 <br>
 <p align="left">
-  <img src="https://t.me/chendxpi?username=Honguan&label=Profile%20views&color=0e75b6&style=flat" alt="Honguan" />
+  <img src="https://komarev.com/ghpvc/?username=Honguan&label=Profile%20views&color=0e75b6&style=flat" alt="Honguan" />
 </p>
